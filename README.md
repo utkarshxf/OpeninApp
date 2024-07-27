@@ -1,4 +1,4 @@
-<h1 align="center">Openin App Ui(Android application)</h1>
+<h1 align="center">Openin App (Android application)</h1>
 <p align="center">  
   Openin App demonstrates modern Android development with Jetpack Compose, Hilt, Coroutines, Flow, Jetpack (Room, ViewModel), and Material Design based on MVVM architecture.
 </p>
