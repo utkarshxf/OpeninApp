@@ -14,12 +14,9 @@ Go to  [Screens](#Screens) Section to See the Screen.
 
 ## Video
 
-<p align="center">
-    <img src="https://github.com/user-attachments/assets/d87afd63-6d2a-400c-8357-a2f7203c583c" width="200" alt="Image" />
-    <video width="200" controls>
-        <source src="https://github.com/user-attachments/assets/f92b85d9-cf3a-4250-93c5-03dddafc983a" type="video/mp4">
-        Your browser does not support the video tag.
-    </video>
+<p >
+<!--   <img src="https://github.com/user-attachments/assets/d87afd63-6d2a-400c-8357-a2f7203c583c" width="200" alt="Image" /> -->
+  <video src="https://github.com/user-attachments/assets/f92b85d9-cf3a-4250-93c5-03dddafc983a" width="200" alt="Video" />
 </p>
 
 
