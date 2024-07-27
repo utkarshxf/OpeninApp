@@ -6,6 +6,10 @@
 
 Go to  [Screens](#Screens) Section to See the Screens.
 
+## Video
+ <img src="https://github.com/user-attachments/assets/d87afd63-6d2a-400c-8357-a2f7203c583c" width="200"/>)
+
+
 ## Tech stack & Open-source libraries
 
 - [Kotlin](https://kotlinlang.org/) based, utilizing [Coroutines](https://github.com/Kotlin/kotlinx.coroutines) + [Flow](https://kotlin.github.io/kotlinx.coroutines/kotlinx-coroutines-core/kotlinx.coroutines.flow/) for asynchronous operations.
