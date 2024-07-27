@@ -16,74 +16,36 @@ import androidx.compose.ui.platform.LocalView
 import androidx.core.view.WindowCompat
 
 private val DarkColorScheme = darkColorScheme(
-    primary = ColorPrimaryDark,
-    onPrimary = ColorOnPrimaryDark,
-    primaryContainer = ColorPrimaryVariantDark,
-    onPrimaryContainer = ColorOnPrimaryDark,
-    inversePrimary = ColorOnPrimaryDark,
-    secondary = ColorSecondaryDark,
-    onSecondary = ColorOnSecondaryDark,
-    secondaryContainer = ColorSecondaryVariantDark,
-    onSecondaryContainer = ColorOnSecondaryDark,
-    tertiary = ColorTextTertiaryDark,
-    onTertiary = ColorTextTertiaryLight,
-    tertiaryContainer = ColorTextTertiaryDark,
-    onTertiaryContainer = ColorTextTertiaryLight,
-    background = ColorBackgroundDark,
-    onBackground = ColorOnBackgroundDark,
-    surface = ColorSurfaceDark,
-    onSurface = ColorOnSurfaceDark,
-    surfaceVariant = ColorSurfaceLight,
-    onSurfaceVariant = ColorOnSurfaceLight,
-    surfaceTint = ColorPrimaryDark,
-    inverseSurface = ColorOnSurfaceLight,
-    inverseOnSurface = ColorOnSurfaceLight,
-    error = ColorErrorDark,
-    onError = ColorOnErrorDark,
-    errorContainer = ColorErrorDark,
-    onErrorContainer = ColorOnErrorDark,
-    outline = ColorInputBorderDark,
-    outlineVariant = ColorInputBorderLight,
-    scrim = ColorSurfaceDark
+
 )
 
 private val LightColorScheme = lightColorScheme(
     primary = ColorPrimaryLight,
     onPrimary = ColorOnPrimaryLight,
     primaryContainer = ColorPrimaryVariantLight,
-    onPrimaryContainer = ColorOnPrimaryDark,
-    inversePrimary = ColorOnPrimaryDark,
     secondary = ColorSecondaryLight,
     onSecondary = ColorOnSecondaryLight,
     secondaryContainer = ColorSecondaryVariantLight,
-    onSecondaryContainer = ColorOnSecondaryDark,
     tertiary = ColorTextTertiaryLight,
-    onTertiary = ColorTextTertiaryDark,
     tertiaryContainer = ColorTextTertiaryLight,
-    onTertiaryContainer = ColorTextTertiaryDark,
     background = ColorBackgroundLight,
     onBackground = ColorOnBackgroundLight,
     surface = ColorSurfaceLight,
     onSurface = ColorOnSurfaceLight,
-    surfaceVariant = ColorSurfaceDark,
-    onSurfaceVariant = ColorOnSurfaceDark,
     surfaceTint = ColorPrimaryLight,
-    inverseSurface = ColorOnSurfaceDark,
-    inverseOnSurface = ColorOnSurfaceDark,
     error = ColorErrorLight,
     onError = ColorOnErrorLight,
     errorContainer = ColorErrorLight,
     onErrorContainer = ColorOnErrorLight,
     outline = ColorInputBorderLight,
-    outlineVariant = ColorInputBorderDark,
     scrim = ColorSurfaceLight
 )
 
 @Composable
 fun TempleteTheme(
-    darkTheme: Boolean = isSystemInDarkTheme(),
+    darkTheme: Boolean = false,
     // Dynamic color is available on Android 12+
-    dynamicColor: Boolean = true,
+    dynamicColor: Boolean = false,
     content: @Composable () -> Unit
 ) {
     val colorScheme = when {
