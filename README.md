@@ -4,7 +4,7 @@
 </p>
 <img src="https://github.com/user-attachments/assets/a92052d2-713d-4aca-800e-3580021517be"/>
 
-Go to  [Screens](#Screens) Section to See the Screens.
+Go to  [Screens](#Screens) Section to See the Screen.
 
 ## Video
  <img src="https://github.com/user-attachments/assets/d87afd63-6d2a-400c-8357-a2f7203c583c" width="200"/>
