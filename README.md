@@ -8,6 +8,7 @@
 
 Go to the [Releases](https://drive.google.com/file/d/1wnJQ8slxsfr1dyBVl3XKIknSkcrEZtK9/view?usp=sharing) to download the latest APK.
 <img src="previews/preview.gif" align="right" width="320"/>
+
 Go to  [Screens](#Screens) Section to See the Screen.
 
 
