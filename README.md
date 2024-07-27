@@ -14,11 +14,8 @@ Go to  [Screens](#Screens) Section to See the Screen.
 
 ## Video
 
-
-https://github.com/user-attachments/assets/f92b85d9-cf3a-4250-93c5-03dddafc983a
-
-
 <img src="https://github.com/user-attachments/assets/d87afd63-6d2a-400c-8357-a2f7203c583c" width="200"/>
+https://github.com/user-attachments/assets/f92b85d9-cf3a-4250-93c5-03dddafc983a
 
 
 ## Tech stack & Open-source libraries
