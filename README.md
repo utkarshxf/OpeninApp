@@ -4,7 +4,7 @@
 </p>
 <img src="https://github.com/user-attachments/assets/a92052d2-713d-4aca-800e-3580021517be"/>
 
-Go to  [Features](#Screens) Section to See the Screens.
+Go to  [Screens](#Screens) Section to See the Screens.
 
 ## Tech stack & Open-source libraries
 
