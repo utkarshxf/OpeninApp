@@ -7,7 +7,7 @@
 Go to  [Screens](#Screens) Section to See the Screens.
 
 ## Video
- <img src="https://github.com/user-attachments/assets/d87afd63-6d2a-400c-8357-a2f7203c583c" width="200"/>)
+ <img src="https://github.com/user-attachments/assets/d87afd63-6d2a-400c-8357-a2f7203c583c" width="200"/>
 
 
 ## Tech stack & Open-source libraries
