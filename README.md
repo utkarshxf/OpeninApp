@@ -3,6 +3,9 @@
   Openin App demonstrates modern Android development with Jetpack Compose, Hilt, Coroutines, Flow, Jetpack (Room, ViewModel), and Material Design based on MVVM architecture.
 </p>
 <img src="https://github.com/user-attachments/assets/a92052d2-713d-4aca-800e-3580021517be"/>
+
+Go to  [Features](#Screens) Section to See the Screens.
+
 ## Tech stack & Open-source libraries
 
 - [Kotlin](https://kotlinlang.org/) based, utilizing [Coroutines](https://github.com/Kotlin/kotlinx.coroutines) + [Flow](https://kotlin.github.io/kotlinx.coroutines/kotlinx-coroutines-core/kotlinx.coroutines.flow/) for asynchronous operations.
